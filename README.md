@@ -89,4 +89,7 @@ Java를 이용한 항만 물류 주문 응용프로그램 개발 프로젝트를
 팀원들과 협업 툴을 사용하며 개발에서 커뮤니케이션이 중요한 것을 깨달았고 각종 툴 사용법을 익히면서 개발자로써 한 발 내딛는 프로젝트였습니다.<br/><br/>
 
 # :bookmark: <a name="url">웹 프로젝트</a>
+1. 웹 프로젝트 링크 <br />
+<a href="https://github.com/ldj8196/MiniProject_JSP">JSP 웹프로젝트</a> <br/>
+2. 협업 노션 링크 <br />
 <a href="https://www.notion.so/bf2c17f0a0bf47b2ab01f7b17a834dc3?v=4931d2f41b0b41a2a41d5e11400ecdaf">노션링크</a>
