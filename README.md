@@ -54,7 +54,7 @@
 
 
 # :family: <a name="team">팀원소개</a>
-<img src="https://raw.githubusercontent.com/ldj8196/Portfolio/main/src/main/resources/static/DJ/portfolioimage/팀원소개.png"> <br/><br/>
+<img src="https://raw.githubusercontent.com/ldj8196/MiniProject_Java/main/Image/%ED%8C%80%EC%9B%90%EC%86%8C%EA%B0%9C.png"> <br/><br/>
 # :bookmark_tabs: <a name="function">기능구현</a>
 **1. 회원가입**
 
